@@ -1,0 +1,12 @@
+D:\xamarin\xamarin\MiPrimerXamarin\MiPrimerXamarin\MiPrimerXamarin\bin\Debug\netstandard2.0\MiPrimerXamarin.deps.json
+D:\xamarin\xamarin\MiPrimerXamarin\MiPrimerXamarin\MiPrimerXamarin\bin\Debug\netstandard2.0\MiPrimerXamarin.dll
+D:\xamarin\xamarin\MiPrimerXamarin\MiPrimerXamarin\MiPrimerXamarin\bin\Debug\netstandard2.0\MiPrimerXamarin.pdb
+D:\xamarin\xamarin\MiPrimerXamarin\MiPrimerXamarin\MiPrimerXamarin\obj\Debug\netstandard2.0\MiPrimerXamarin.csprojAssemblyReference.cache
+D:\xamarin\xamarin\MiPrimerXamarin\MiPrimerXamarin\MiPrimerXamarin\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\xamarin\xamarin\MiPrimerXamarin\MiPrimerXamarin\MiPrimerXamarin\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\xamarin\xamarin\MiPrimerXamarin\MiPrimerXamarin\MiPrimerXamarin\obj\Debug\netstandard2.0\MiPrimerXamarin.csproj.CoreCompileInputs.cache
+D:\xamarin\xamarin\MiPrimerXamarin\MiPrimerXamarin\MiPrimerXamarin\obj\Debug\netstandard2.0\MiPrimerXamarin.AssemblyInfoInputs.cache
+D:\xamarin\xamarin\MiPrimerXamarin\MiPrimerXamarin\MiPrimerXamarin\obj\Debug\netstandard2.0\MiPrimerXamarin.AssemblyInfo.cs
+D:\xamarin\xamarin\MiPrimerXamarin\MiPrimerXamarin\MiPrimerXamarin\obj\Debug\netstandard2.0\XamlC.stamp
+D:\xamarin\xamarin\MiPrimerXamarin\MiPrimerXamarin\MiPrimerXamarin\obj\Debug\netstandard2.0\MiPrimerXamarin.dll
+D:\xamarin\xamarin\MiPrimerXamarin\MiPrimerXamarin\MiPrimerXamarin\obj\Debug\netstandard2.0\MiPrimerXamarin.pdb
